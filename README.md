@@ -1,2 +1,1 @@
-# obsidian-git-sync
-# obsidian-git-sync
+This is a test of git-sync
