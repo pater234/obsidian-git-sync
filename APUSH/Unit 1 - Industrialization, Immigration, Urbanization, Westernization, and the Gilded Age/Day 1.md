@@ -1,0 +1,37 @@
+**Unit 1 - Period 6: 1865 - 1900**
+**Industrial America**
+- Essential Question
+	- What were the causes/facotrs of America's rapid industrialization
+	- How did industrialization promote a new culture in American society
+- Market Revolution
+	- Modern Banking
+	- Expansion of Roads
+	- Small scale economic changes
+- Industrialization
+	- In 1865 America was primarily agrarian
+	- By 1900 it was the leading industrial power
+- Causes of Rapid Industrialization  
+	- Impact of the Civil War
+		- Wars are good for the economy
+		- More northern factories
+		- Growth of railroads and transportation
+		- Beginning of more modern banks in the North
+	- Railroads and Transportation 
+		- Transcontinental railroads
+		- Steamboats
+	- Technological Innovations and Labor saving devices
+		- Electricity
+		- Refrigerators
+	- Unskilled and semi skilled labor in abundance fueled by immigration
+		- You can pay immigrants low wages
+		- Businessmen support immigration for a low, replaceable labor force
+	- Growing US population
+	- Abundant Capital
+		- Lot of money coming in from Europe
+	- New, talented group of businessmen (Entrepreneurs) & business strategies, & consolidation
+	- Business friendly policies promoted by the US government
+		- Laissez-Faire economics
+		- Lots of land grants
+	- Abundant natural resources & raw materials
+		- Iron ore, coal, forests
+ 
