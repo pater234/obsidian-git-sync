@@ -1,1 +1,117 @@
 **The Railroads and Jamming**
+**Review**
+- Causes
+- Growth of Large Corportation
+- Laissez Faire Capitalism
+- Social Darwinism
+- Gospel of Wealth
+- Robber Barons vs Captains of Industry
+- Inventions
+- Impact
+**Railroads**
+- Two main industries are Steel and Railroads (Steel is #2)
+	- The railroads affect everything in the UNited States
+- Impact of Railroads
+	- First Big Business in the US
+		- Need railroads for selling
+		- First dominant industry in the United States
+		- First major companies in the United States
+		- Complex, stockholding corportations
+		- Biggest Employers
+	- New Markets for goods
+		- Access raw materials in the West
+		- Manufactured goods can be traded more easily
+	- Promoted industrialization and other industries
+		- Helps industries like coal, as coal was needed to run the railroads
+		- Stimulated mining and agriculture
+			- You can send goods across the country
+		- Farmers and companies can sell in cities such as Chicago
+		- Helps larger farms more than small farmers
+	- Boom for cities
+		- People move to the cities
+		- Massive Urbanization
+		- Cities sprung up near ports, then rivers and materials
+		- Now major cities pop up along railroad routes
+	- Stimulated Immigration 
+		- Immigrants left Europe for land
+		- Railroad agents sold railroad land in Europe to convince immigrants to come to the country
+	- Key to growth & settlement of the West
+		- You cannot settle vast swaths of land without the transportation to get there
+	- Timezones 
+		- Standardized time across the US so train schedules would stop getting messed up
+	- Benefited from government subsidies and land grants
+- Railroad companies
+	- The government did not run the railroads, but they wanted them to be built
+	- The government gives land away to railroad companies to build railroads
+		- It was very risky to build a railroad
+	- The government gave land in a checkered pattern, as the land that they continued to hold after the railroads were built would rise in value, meaning they could sell it for a lot of money. 
+- Transcontinental Railroads
+	- 5 transcontinental railroads built from 1865-1900
+	- Debate before the Civil War
+		- Whether the railroad was in the North or South
+	- Two companies built the first one commisioned by Lincoln
+		- The Union Pacific
+			- Left from Nebraska and went West
+			- Made up of mostly Irish immigrants. 
+			- Created huge tent cities that moved every two days
+		- Central Pacific
+			- Left from San Fran
+			- Built mostly by Chinese Immigrants
+			- Had to blow up mountains
+		- Met at Promontary Point, Utah a little bit north of Salt lake City
+		- Leland Stanford drove in the final stake in the first railroad
+	- Cornelius Vanderbilt controlled railroads on the East Coast
+		- Many companies were competing to take control of routes in the East
+		- He was the first to use steel railroads at great cost to himself
+			- Different trains could use his track
+			- Development of standard gauge
+		- They were able to eliminate their competitors and consolidated the lines into a few main lines
+			- Trunk lines
+	- Leland Stanford
+		- Ran many of the major Western railroad companies 
+- Problems with the Railroads
+	- Corruption
+		- Many companies paid off government officials
+		- Credit Mobilier Scandal, 1872-1873
+			- Bribed government officials, up to the Vice President
+		- Jay Gould
+			- Famous corrupt businessman
+			- Trying to get the government to default
+			- Many railroad companies failed, meaning most investments were speculation
+			- Jay Gould would sell inflated stock and then never do anything
+				- Stock Watering
+	- Rebates & and rates
+		- Everything shipped on the railroads
+		- Rates became a major issue
+		- Railroads gave massive rebates to massive companies
+			- Companies like Standard Oil got huge discounts because they could choose whatever railroad they wanted to
+		- Farmers hated the railroads because they thought they charged exorbitant rates in order to favor the rich and keep them in poverty. 
+	- Pools
+		- "Rival" companies split business in order to make more profit
+			- The prices were kept at the same level, meaning they made more money
+		- Would be called a cartel today
+	- Interlocking Directorates
+		- Businessmen like JP Morgan would send people to by stock for him in their names
+		- The same people would control all of the railroads within the country. 
+**Regulating the Trusts/Railroads**
+- Challenging the power of business
+	- Many people began to challenge the power of railroads and big business
+		- They call for more government regulation of industry
+- Farmers begin the charge for regulation
+	- They realized that the federal government would not help them, so they went to state governments, who were directly elected by them
+	- States like Illinois and Iowa begin passing legislation to stop the railroads
+		- They began forcing the railroads to publish their rates
+	- The Supreme Court said that what they were doing was legal, so they said that the states can regulate the trains. 
+	- They later reversed Munn vs Illinois, saying that Individual states cannot regulate interstate commerce. 
+	- The farmers were happy for a while, but eventually it became a big victory for railroads and corporations. 
+- Politicians took up their case
+	- In 1887, the government created the Interstate Commerce Act to create a regulatory agency for business
+		- Creates the Interstate Commerce Commission
+		- It was not a victory for the farmers, as an agency is only as powerful as the people in charge
+		- It increased regulation slightly, but also removed corruption, and shut down more of the bad companies. 
+			- Increased consolidation of the industry, making the monopolies more powerful
+		- First example of the government listening to the farmers, but it was extremely ineffective
+	- In 1890, the Sherman Antitrust Act was passed, giving the government the power to break up and regulate business. 
+		- The Act was also extremely ineffective 
+			- Used to break up unions
+	- The government responded to calls for more regulation, but both were ineffective in the period at their intended usages of regulating businesses. 
