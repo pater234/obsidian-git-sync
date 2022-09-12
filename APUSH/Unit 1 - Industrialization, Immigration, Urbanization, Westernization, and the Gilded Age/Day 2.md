@@ -8,6 +8,7 @@
 - Robber Barons vs Captains of Industry
 - Inventions
 - Impact
+
 **Railroads**
 - Two main industries are Steel and Railroads (Steel is #2)
 	- The railroads affect everything in the UNited States
@@ -93,6 +94,7 @@
 	- Interlocking Directorates
 		- Businessmen like JP Morgan would send people to by stock for him in their names
 		- The same people would control all of the railroads within the country. 
+
 **Regulating the Trusts/Railroads**
 - Challenging the power of business
 	- Many people began to challenge the power of railroads and big business
