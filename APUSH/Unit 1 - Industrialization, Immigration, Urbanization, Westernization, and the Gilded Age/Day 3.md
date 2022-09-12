@@ -1,11 +1,14 @@
 **Labor Unions**
-**Essential Questions
+
+**Essential Questions**
 - What is a labor union
 - Why did labor unions emerge in the late 1800s
+
 **Background**
 - A labor union is a grouping of people within an industry fighting for better rights and working conditions
 - If one person complains they are most likely fired, but if everyone complains then the owners and managers must agree.
 - Join, pay a fee, and really work against the companies
+
 **Key Points**
 - Industrial work was dehumanizing and dangerous
 	- no compensation
@@ -24,6 +27,7 @@
 	- Middle class Americans feared the radical nature of labor unions
 		- The press turned the populace against them
 		- The people connected labor unions with European socialism
+
 **Labor Unions Overview**
 - Almost all labor unions were fighting for 
 	- Better wages
@@ -36,6 +40,7 @@
 	- FIrst national union
 	- If a union has members across the country they are more powerful
 	- began in 1866
+
 **Knights of Labor**
 - Began as a secret society
 	- Wore robes 
@@ -61,6 +66,7 @@
 	- Americans associate unions and the Knights of Labor with radicalism & violence
 	- Knights of Labor loses popularity and membership
 		- Way too much negative press and publicity
+
 **The American Federation of Labor**
 - Led by Jewish cigar maker Samuel Gompers
 - Mostly exclusive
@@ -75,10 +81,12 @@
 		- AFL is an umbrella term
 	- Higher wages, better working conditions. 
 	- Largest labor union by 1901 with 1 million members
+
 **Growth of Unions**
 - By 1900 they were 3% of the total population
 - Still feared by many middle class Americans 
 	- Thought to be violent and socialist
+
 **Management vs Labor**
 - Fight between the workers and those who managed the workers
 	- Managers want to limit costs
@@ -125,6 +133,7 @@
 - Many strikes fail
 	- The northeast and industrial midwest had extreme amounts of unrest
 	- Mining companies saw strikes and unions in the West
+
 **The Great Railroad Strike of 1877**
 - Workers from the East coast to Nebraska went on strike against the railroads
 - During an economic downturn railroad companies cut wages
@@ -137,6 +146,7 @@
 	- get workers back to work
 	- end the strike
 - Over 100 people killed
+
 **Homestead Steel Strike**
 - Under Andrew Carnegie
 - The Amalgamated Association of Iron and Steel Workers
@@ -148,6 +158,7 @@
 - The governor sends in people to work the factory and uses troops to protect them
 - The workers eventually gave up
 - There was a failed assassination of Henry Clay Frick leading people to denounce the strike as radical
+
 **Pullman Strike of 1894**
 - Workers often lived in towns completely owned by the company
 	- Kept the workers in poverty because they were paying back what they paid to the company. 
