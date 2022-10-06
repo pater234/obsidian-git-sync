@@ -1,1 +1,1 @@
-This is a test of git-sync
+Selection of markdown notes from multiple different classes. 
