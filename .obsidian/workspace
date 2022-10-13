@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "acqeased",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,14 +90,14 @@
   "active": "24c59680c0c9855b",
   "lastOpenFiles": [
     "APUSH/Unit 2 - Imperialism/Day 1.md",
-    "APUSH/Unit 2 - Imperialism/Day 2.md",
     "AP Bio/Evolution.md",
+    "README.md",
+    "APUSH/Unit 2 - Imperialism/Day 2.md",
     "Excalidraw/Drawing 2022-10-04 13.45.50.excalidraw.md",
     "Excalidraw/Drawing 2022-10-04 13.44.59.excalidraw.md",
     "APUSH/Unit 1 - Industrialization, Immigration, Urbanization, Westernization, and the Gilded Age/Day 8.md",
     "APUSH/Unit 1 - Industrialization, Immigration, Urbanization, Westernization, and the Gilded Age/Day 7.md",
     "APUSH/Unit 1 - Industrialization, Immigration, Urbanization, Westernization, and the Gilded Age/Day 5.md",
-    "APUSH/Unit 1 - Industrialization, Immigration, Urbanization, Westernization, and the Gilded Age/Day 3.md",
-    "README.md"
+    "APUSH/Unit 1 - Industrialization, Immigration, Urbanization, Westernization, and the Gilded Age/Day 3.md"
   ]
 }
