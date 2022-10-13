@@ -97,7 +97,8 @@
 	- What sold papers at the time was sensationalized stories. 
 - Yellow Journalism
 	- Take something true, sensationalize it, sell papers
-- Wars sell papers, so it was in the papers' best interest to force American involvement in the war
+	- Wars sell papers, so it was in the papers' best interest to force American involvement in the war
 	- Jingos wanted war
 	- The papers would write stories of customs officers strip searching American women. 
+	- Joseph Pulitzer and William Randolph Hearst
 
