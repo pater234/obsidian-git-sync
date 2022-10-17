@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "64d29e8ef914c069",
+    "type": "split",
+    "children": [
+      {
+        "id": "d14c9363852bf265",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0f6dc05d7b58208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e15dfd810a298677",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e31fc6bf8886ae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11bcff20d756c5ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ed47f8f0ef9bfc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab23770baf2823a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b2f816bac9dd6c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c006bb289f5794e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b0f6dc05d7b58208",
+  "lastOpenFiles": [
+    "AP Bio/Evolution.md",
+    "APUSH/Unit 2 - Imperialism/Day 3.md",
+    "APUSH/Unit 2 - Imperialism/Day 2.md",
+    "APUSH/Unit 2 - Imperialism/Day 1.md",
+    "README.md",
+    "Excalidraw/Drawing 2022-10-04 13.45.50.excalidraw.md",
+    "Excalidraw/Drawing 2022-10-04 13.44.59.excalidraw.md",
+    "APUSH/Unit 1 - Industrialization, Immigration, Urbanization, Westernization, and the Gilded Age/Day 8.md",
+    "APUSH/Unit 1 - Industrialization, Immigration, Urbanization, Westernization, and the Gilded Age/Day 7.md",
+    "APUSH/Unit 1 - Industrialization, Immigration, Urbanization, Westernization, and the Gilded Age/Day 5.md"
+  ]
+}
