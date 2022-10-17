@@ -11,9 +11,19 @@
             "id": "b0f6dc05d7b58208",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Test 1 Notes 2022-10-17 14.37.29.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "f92fb8917e1633af",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Test 1 2022-10-17 14.07.28.excalidraw 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Test 1 Notes 2022-10-17 14.37.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,23 +102,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "b0f6dc05d7b58208",
   "lastOpenFiles": [
+    "AP Bio/Test 1 Notes.md",
+    "Excalidraw/Test 1 Notes 2022-10-17 14.24.25.excalidraw.md",
+    "Excalidraw/Test 1 2022-10-17 14.07.28.excalidraw 1.md",
     "AP Bio/Evolution.md",
-    "APUSH/Unit 2 - Imperialism/Day 3.md",
-    "APUSH/Unit 2 - Imperialism/Day 2.md",
-    "APUSH/Unit 2 - Imperialism/Day 1.md",
-    "README.md",
-    "Excalidraw/Drawing 2022-10-04 13.45.50.excalidraw.md",
-    "Excalidraw/Drawing 2022-10-04 13.44.59.excalidraw.md",
     "APUSH/Unit 1 - Industrialization, Immigration, Urbanization, Westernization, and the Gilded Age/Day 8.md",
     "APUSH/Unit 1 - Industrialization, Immigration, Urbanization, Westernization, and the Gilded Age/Day 7.md",
-    "APUSH/Unit 1 - Industrialization, Immigration, Urbanization, Westernization, and the Gilded Age/Day 5.md"
+    "APUSH/Unit 1 - Industrialization, Immigration, Urbanization, Westernization, and the Gilded Age/Day 1.md",
+    "APUSH/Unit 2 - Imperialism/Day 2.md",
+    "Excalidraw/Test 1 2022-10-17 14.07.28.excalidraw.md",
+    "APUSH/Unit 2 - Imperialism/Day 3.md"
   ]
 }
