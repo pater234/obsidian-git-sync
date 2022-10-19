@@ -26,3 +26,5 @@
 
 **Molecular Data**
 - Diagram ![[Test 1 Notes 2022-10-17 14.37.29.excalidraw]]
+- Diagram of Cladograms based on molecular data ![[Test 1 Notes 2022-10-17 14.56.27.excalidraw]]
+- Codon ![[Test 1 Notes 2022-10-17 14.45.52.excalidraw]]
