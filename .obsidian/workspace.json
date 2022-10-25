@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d14c9363852bf265",
+        "id": "193caff391356c30",
         "type": "tabs",
         "children": [
           {
-            "id": "f9459610cca0d823",
+            "id": "af7280d7e164fd40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APUSH/Unit 2 - Imperialism/Day 4.md",
+                "file": "AP Bio/Test 1 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b82638a0cf9b3ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Bio/What is a Species?-Reproductive Barriers All Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ab23770baf2823a8",
@@ -77,9 +91,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APUSH/Unit 2 - Imperialism/Day 4.md",
+                "file": "AP Bio/What is a Species?-Reproductive Barriers All Notes.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -92,22 +106,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f9459610cca0d823",
+  "active": "9b82638a0cf9b3ac",
   "lastOpenFiles": [
-    "APUSH/Unit 2 - Imperialism/Day 3.md",
     "AP Bio/Test 1 Notes.md",
-    "Excalidraw/Test 1 Notes 2022-10-17 14.56.27.excalidraw.md",
-    "Excalidraw/Test 1 Notes 2022-10-17 14.37.29.excalidraw.md",
-    "Excalidraw/Test 1 Notes 2022-10-17 14.45.52.excalidraw.md",
-    "Excalidraw/Test 1 2022-10-17 14.07.28.excalidraw 1.md",
-    "Excalidraw/Test 1 Notes 2022-10-17 14.24.25.excalidraw.md",
+    "APUSH/Unit 3 Progessivism/Day 1.md",
+    "Excalidraw/Day 1 2022-10-25 10.21.30.excalidraw.md",
+    "APUSH/Unit 2 - Imperialism/Day 3.md",
+    "APUSH/Unit 2 - Imperialism/Day 4.md",
+    "Excalidraw/Day 1 2022-10-25 10.01.05.excalidraw.md",
+    "README.md",
     "AP Bio/Evolution.md",
-    "APUSH/Unit 1 - Industrialization, Immigration, Urbanization, Westernization, and the Gilded Age/Day 8.md",
-    "APUSH/Unit 1 - Industrialization, Immigration, Urbanization, Westernization, and the Gilded Age/Day 7.md"
+    "Excalidraw/Test 1 Notes 2022-10-17 14.56.27.excalidraw.md",
+    "Excalidraw/Test 1 Notes 2022-10-17 14.37.29.excalidraw.md"
   ]
 }
