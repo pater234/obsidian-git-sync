@@ -37,3 +37,8 @@
 	- Drawing of DNA![[Drawing 2022-10-04 13.45.50.excalidraw]]
 - The sequences of the DNA create the sequences of the amino acids involved in protein creation. 
 	- Mutations can cause the proteins made to be changed. 
+
+
+**Speciation**
+- Sympatric Speciation - Same land
+- Allopatric Speciation - Move to a separate land
