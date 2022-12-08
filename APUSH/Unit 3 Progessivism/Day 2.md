@@ -93,3 +93,22 @@
 - Carrie Nation
 	- Went inside saloons and broke everything with an axe
 - Temperance advocates believed that alcohol hurt the family
+- Started during the antebellum period but gained speed during this period
+- Largest anti-temperance advocates were the Women's Christians Temperance Union (WCTU)
+	- Led by Frances Willard 
+		- Would go into bars and saloons and pray
+- Women fought against alcohol because they believed that it tore apart the family
+	- Believed it led to spousal abuse
+	- Men would drink away their wages, leaving no money for the family
+	- They believed it would cause men to turn to prostitution
+- "Lips that touch liquor shall not touch ours"
+- Anti Saloon League
+	- Less religious, more men involved, also against alcohol 
+- People who opposed alcohol were known as Drys
+- People who wanted to keep the status quo were known as Wets
+- Before the 18th amendment many states actually passed dry laws, especially in the south
+- The groups advocated for voting for politicians who supported Dry laws 
+- Ran campaigns asking people to help women keep their families together. 
+- The Wet areas were concentrated in the urban areas due to the influence of immigrants, where drinking was a major part of their culture
+- World War I played a major role in creating support for prohibition due to anti foreign sentiment especially to Germans
+

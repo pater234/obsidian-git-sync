@@ -9,9 +9,9 @@
 - $F_{spring} = -kx$
 - $W = \int_{0}^{x} -kx dx$
 - $W = -k\int_{0}^{x} x dx$
-- $W = -k(\frac{x^2}{2})^2$
+- $W = -k(\frac{x^2}{2})$
 - $W = -k(\frac{x^2}{2}-0)$
-- W = 1/2kx^2
+- W = -1/2kx^2
 - ![[Work and Energy Notes 2022-11-01 13.44.02.excalidraw]]
 - ![[Work and Energy Notes 2022-11-01 13.45.15.excalidraw]]
 - ![[Work and Energy Notes 2022-11-01 13.46.51.excalidraw]]
