@@ -152,17 +152,33 @@
 - People tended to move towards California
 - There were signs on Route 66 telling people not to come to California, but people still came, believing that there was work. 
 - Big period of internal migration
-- 
+
+**Unemployment Offices**
+- People would wait outside the unemployment offices hoping for some sort of work
+- People would do this for years and hope to get enough work to feed their families. 
 
 **Photos**
 - Slide 1 - Dust Bowl and struggle of farmers
-- Slide 2 - Bank Runs and people waiting for meals
+	- Dust storms engulfed farms
+- Slide 2 - Unemployment offices
+	- People would hope for some sort of work
 - Slide 3 - Hoovervilles
+	- Shantytowns that developed across the country
+	- They were made out of anything the people could scourge up
 - Slide 4 - Hobos
-- Slide 5 - people getting on trains trying to find work???
+	- Thousands of men would wander around looking for food and work
+	- They created a system for other hobos to figure out what they wished to do.
+- Slide 5 - Hobos riding the rails
+	- Would ride in empty train compartments
+		- Technically illegal
 - Slide 6 - Bank run in a town
-- Slide 7 - Soup Kitchens and donations for unemployed individuals
-- Slide 8 - Families leaving their foreclosed farms to search for work in the West or East
+	- Very common sight throughout the Great Depression
+	- Banks would go under after losing all of their money
+- Slide 7 - Soup Kitchens and Breadlines
+	- People did not have work, so many private charities and churches would give food to people
+	- State and local governments would run other ones, not the national government under the orders of Hoover
+- Slide 8 - Families leaving their foreclosed farms to search for work in the West
+	- 
 - Slide 9 - Showing of the Movie Gone with the Wind with a huge crowd
 - Slide 10 - Bonus march or union march against the government
 - Slide 11 - the continuation of segregation in the south
