@@ -57,7 +57,7 @@
 **Direct Action**
 - Federal Farm Board - 1929 
 	- Help farmers stabilized prices
-		- Buy surpluses
+		- The government will buy surpluses
 	- Wasn't overly successful - farmers were already struggling
 - Reconstruction Finance Corporation
 	- Give emergency loans to banks, and railroads - stabilize the banks
@@ -84,7 +84,7 @@
 - 20,000 veterans and family members protested on the steps of the Capitol, demanding their bonuses
 	- Bonus Army
 - Congress refuses to pass the bill that would give half of their bonus to the veterans
-- Hoover tell the people to leave
+- Hoover told the people to leave
 	- 6,000 people remain
 - The police and army clear the Hooverville ordered by Hoover 
 	- Used excessive force
@@ -177,9 +177,19 @@
 - Slide 7 - Soup Kitchens and Breadlines
 	- People did not have work, so many private charities and churches would give food to people
 	- State and local governments would run other ones, not the national government under the orders of Hoover
-- Slide 8 - Families leaving their foreclosed farms to search for work in the West
-	- 
-- Slide 9 - Showing of the Movie Gone with the Wind with a huge crowd
-- Slide 10 - Bonus march or union march against the government
+- Slide 8 - Dust Bowl migrants
+	- Families leaving their foreclosed farms to search for work in the West
+	- "Okies" from Oklahoma
+- Slide 9 - #1 form of entertainment - movies
+	- Form of escapism
+	- Still relatively cheap
+- Slide 10 - Strikes
+	- Lots of strikes during the Great Depression
+	- Sit down strikes - instead of protesting outside, you would show up and refuse to work. Occupy the plant and force it to stop running. 
 - Slide 11 - the continuation of segregation in the south
-- Slide 12 - Migrant worker camps of people hoping for work
+	- Very segregated period 
+	- African Americans struggled the most during the Depression
+- Slide 12 - Migrant Camps
+	- Migrant workers formed camps of people hoping for work
+	- Mostly were farmers
+	- Made up of cloth and wood instead of metal
