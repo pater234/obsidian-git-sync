@@ -22,4 +22,4 @@
 - $W_{net} = F_{net} \Delta x = \int F_{net} dx$
 - $ME_0 + W_{ncf} = ME_f$
 	- $W_{ncf} = \Delta ME$
-- 
+
