@@ -1,0 +1,122 @@
+**London Economic Conference**
+- 66 nations around the world meet in London in an attempt to stabilize the nation's currency and exchange
+- Roosevelt sends a delegation, but removes the delegation when it becomes clear that the conference would require the US to agree to exchange rates
+	- Against Roosevelt's hopes of stabilization through gold
+
+**Foreign Policy**
+- Roosevelt was more like Woodrow Wilson than his cousin, Theodore. 
+	- More of a globalist
+- Independence for the Philippines
+	- Trent-McDuffie Act
+		- 1934
+		- Freedom for the Philippines after an economic and political tutelage 
+		- The United States did not really need the Philippines anymore
+- FDR recognizes the Soviet Union
+	- For 16 years, the US viewed the Communist government as an illegitimate government
+		- No formal conversations and trade
+	- FDR recognizes them
+		- The US is very nervous of Japan
+			- Believed that recognizing a rival of Japan would bolster both countries against the Japanese
+		- Thought Trade would benefit the economy during the Depression
+- Good Neighbor Policy
+	- Important to reach out to other countries in the Western Hemisphere
+		- Reverse the Bad Neighbor Policy
+	- Policy of cooperation and non-intervention
+		- Solve issues diplomatically
+	- Nullified the Platt Amendment in Cuba
+		- No longer an economic dependent
+	- Removed Marines from Haiti
+- Reciprocal Trade Agreements
+	- Roosevelt believed that tariffs should be low
+	- Lower tariff rates by 50% if other countries were willing to do so
+	- Does not need Senate approval after they sign off on the bill
+		- The state department could now create these agreements
+	- World Trade increased in this period because of reciprocal trade agreements
+
+**Foreign Aggression in the 1930s**
+- Japan invades Manchuria
+	- 1931
+	- Japan starts decade of aggression
+	- Treaties
+		- Nine Power Treaty
+			- Open Door Policy
+			- 9 nations would respect the territory of China
+		- Kellogg Pact stated war was illegal
+		- Promised to not invade
+		- League of Nations
+	- Japan broke all of these treaties
+		- Will continue to be aggressive
+	- Criticism of American foreign policy in the 20s, all of these treaties are worthless if there is no punishment - Paper thin
+- Hoover-Stimson Doctrine
+	- The US would not recognize any territory gained by force
+	- Pretty much useless as Japan still held the territory
+- The Versailles Treaty
+	- Tried to solve problems, but created more problems
+	- Created countries based on nationality
+		- Germans want greater Germany back
+		- Russia wants land back
+	- Germany resented the treaty
+		- The public believed that the war was a tie
+		- They signed an armistice based on the 14 points
+		- They were very angry and bitter at the war guilt clause
+		- Hated reparations
+			- Suffered during the war
+			- Suffered during the Depression
+	- The Germans overwhelmingly felt that they would "get them back"
+		- revenge, built up resentment
+- Ineffectiveness of the League of Nations
+	- US doesn't join
+	- Don't really do much
+		- Just condemn things
+		- No economic sanctions
+		- No real acts to prevent aggression
+	- Did not prevent another big war
+- Great Depression
+	- Countries were still recovering from World War I, and then the Depression hit
+	- Starving individuals are more likely to radicalize
+	- Almost all nations gave their government move power. 
+		- Some went even further
+	- Nationalism did not die down
+- Totalitarian Regimes
+	- Not all the same, but there are some similarities
+		- Lot of government power
+		- Very little personal freedom
+		- State over personal needs
+	- Soviets
+		- Communist - government control over industry
+		- Stalin was a totalitarian dictator
+		- Entire families were crushed for any sort of dissent
+	- Italy
+		- Mussolini came to power 13 years before Hitler
+			- Came up with the ideas of fascism
+		- There was still a king, but Mussolini was popular and controlled the government
+	- Germany
+		- Hitler bases his government on Mussolini
+		- Hitler came to dominate their relationship
+	- Japan
+		- Militaristic state
+			- Led by emperor, really run by the military
+		- As of the late 1800s, they become increasingly imperialistic
+		- They need access to resources as they require foreign materials to run their arm
+- Nye Committee Hearings
+	- The government begins to investigate why we entered World War I
+	- Led by a Republican Senator - Gerald Nye - Isolationist
+	- Concludes that we went to war for money
+	- Never really neutral
+	- War is bad for the country
+- Preventing America from entering the war
+	- If you want to prevent a rerun of World War I, then you should restrict the sale of arms to fighting nations
+	- Neutrality Acts - 1935, 1936, 1937
+	- When the President proclaimed the existence of a foreign war,
+		- We cannot trade arms with belligerent nations
+			- If Sudan fights Spain, we cannot give arms
+		- Forbade Americans to travel on vessels of nations at war
+			- Removes the possibility of another Lusitania
+		- Amendment  in 1936 - we cannot loan or give credit to fighting nations
+	- The idea is that if a war breaks out in Europe, then the President can do nothing to bring us into the war
+	- Proves to be wishful thinking
+	- You could argue that it actually helped belligerent nations
+		- America was condemning weak nations to lose
+- Italy attacks Ethiopia
+	- The League of Nations just condemns the invasion
+	- The Neutrality Acts allowed the invasion, as there was no consequences for Italy
