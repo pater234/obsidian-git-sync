@@ -1,6 +1,6 @@
 **Home Front and Fighting the War**
 
-**Recap
+**Recap**
 - Japanese Internment Camps
 - War Production Board
 	- Ration Cards
@@ -9,6 +9,8 @@
 - War Labor Board
 	- Uncle Sam and Labor needed to work together
 	- If a critical industry is striking, then the government will take over that industry
+
+***Home Front**
 
 **Serving**
 - 15 million American men would serve in WW2
@@ -104,4 +106,77 @@
 	- Atomic Bombs
 - There is a lot of money put into scientific research in order to win the war. 
 
-**
+***America In World War II***
+
+**Pacific Theater of Operations**
+- Despite anger at Pearl Harbor, when we first enter the war the strategy would be that Germany was the first priority
+	- Reinforced by Churchill
+	- The idea was really to not lose against Japan and win against Germany first
+- Japan makes immense gains in the first 6 months of the war
+	- Taking over islands
+- Infamously conquer the Philippines
+	- Bataan Death March
+		- Thousands of soldiers dropped dead
+	- Cruelty and harsh treatment against prisoners of war
+- Surrendered the Philippines, New Guinea, Dutch East Indies, Singapore
+- Wanted to force an American surrender and negotiation as soon as possible to end the war quickly
+- First non-loss to Japan - Coral Sea
+	- Stopped the potential invasion of Australia
+- Battle of Midway Island - first American victory
+	- Discovered the plans early on, major American victory
+	- American planes launched from aircraft carriers and sunk 4 Japanese aircraft carriers
+- Allied Counter-Offensive
+	- Called Island-Hopping
+	- It would have taken years in order to capture every bit of Japanese territories
+	- America focused on taking control of strategic islands in order to construct air strips to bomb Japan
+		- Slowly took back areas under control by Japan
+	- The idea was that the only way to defeat Japan was to undertake a massive, costly invasion of Japan
+
+**Campaign in Europe and North Africa**
+- Battle of the High Seas
+	- America can't win if their supplies do not get across the Atlantic
+	- In 1942, over 500 American ships are sunk by German U-Boats
+	- 1943 is the turning point of the Battle of the Atlantic
+		- Ships were protected by air cover
+		- Major advances in radar and sonar
+		- Cracking of the German enigma 
+			- The British were able to find out German movements
+- First fierce fighting is in North Africa
+	- Germans and Italians wanted to take control of the Suez Canal
+		- Fierce fighting between the Germans and British
+	- Operation Torch - November 1942
+		- First time Americans saw action against the Germans
+		- Americans would land in North Africa in Morocco and push East against the Germans
+- First of four major wartime conferences between the Big 3
+	- Casablanca Conference (1/14 - 1/24 1943)
+		- The Americans and British meet in Casablanca without the Soviets 
+			- The Soviets believe that they are taking a lot of pressure against the Germans
+			- Stalin wants the US to open up a second front in France
+		- Roosevelt mostly agreed with Stalin, but Churchill stated that they were not ready to attack France
+		- The Western Allies would invade Italy and Sicily as they would be an easier target
+		- Stalin believed that the Americans and British purposefully delayed the opening of the second front in order to maximize Soviet casualties
+		- Step up the war in Japan
+		- Unconditional Surrender of both Germany and Japan
+			- No negotiation
+- Italian Campaign
+	- Soft underbelly of Europe
+	- When America invades, the King overthrows Mussolini and surrenders to the Allies
+		- Joins the war on the side of the Allies
+	- Hitler invades the northern half of Italy and sets up defenses
+	- Italy is a naturally hilly nation, so the German defenses were very difficult to break
+		- America never actually took complete control of Italy
+	- Liberation of Rome on June 5, 1944
+		- Overshadowed by D Day the next day
+- Tehran Conference (Persian Capital - End of 1943)
+	- First meeting of the Big Three
+	- Agreed upon the Allied Invasion of France in the spring of 1944
+	- The Soviets will begin launching major attacks on the Germans in order to regain land
+	- Agreement for the eventual joining of the Soviets against Japan
+- Operation Overlord D-Day
+	- June 6th, 1944
+	- Millions of Americans, Canadians, and British troops invade 5 beaches on the shores of France
+		- American Dwight D Eisenhower was the supreme commander of the invasion
+	- The Germans thought that the Americans would invade north of Normandy, to Calais
+		- Used decoy maneuvers to convince the Germans that the invasions would not take place at Normandy
+	- Airborne Divisions attempted to try and throw off the German defenses
+	- Extremely successful despite massive casualties on the part of the first waves
