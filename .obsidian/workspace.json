@@ -8,91 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4686c8eabe0c2eb",
+            "id": "793c745dcaac67bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APUSH/Unit 7 - World War 2/Day 1.md",
+                "file": "APUSH/Unit 8 - Cold War/Day 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d63179f6225519e2",
+            "id": "4e72a43fe0fdcb05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APUSH/Unit 7 - World War 2/Day 1.md",
+                "file": "APUSH/Unit 8 - Cold War/Day 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8067e448e842473f",
+            "id": "699729c83d9988cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APUSH/Unit 7 - World War 2/Day 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fef5b119a7a0207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APUSH/Unit 7 - World War 2/Day 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acda4148ade76366",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Bio/Photosynthesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "238bcf17004fa181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APUSH/Unit 7 - World War 2/Day 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25bc11dbbb9ae70a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APUSH/Unit 7 - World War 2/Day 5.md",
+                "file": "APUSH/Unit 8 - Cold War/Day 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APUSH/Unit 7 - World War 2/Day 5.md",
+                "file": "APUSH/Unit 8 - Cold War/Day 3.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -178,17 +130,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "25bc11dbbb9ae70a",
+  "active": "699729c83d9988cc",
   "lastOpenFiles": [
+    "APUSH/Unit 8 - Cold War/Day 2.md",
+    "APUSH/Unit 8 - Cold War/Day 1.md",
+    "APUSH/Unit 7 - World War 2/Day 6.md",
+    "APUSH/Unit 7 - World War 2/Day 5.md",
     "APUSH/Unit 7 - World War 2/Day 4.md",
     "AP Bio/Photosynthesis.md",
-    "APUSH/Unit 7 - World War 2/Day 5.md",
     "AP Bio/1-26-23.md",
     "Screen Shot 2023-01-11 at 12.10.56 PM.png",
     "AP Bio/Evolution.md",
-    "AP Bio/Test 1 Notes.md",
-    "AP Bio/What is a Species?-Reproductive Barriers All Notes.md",
-    "APUSH/Unit 7 - World War 2/Day 3.md",
-    "APUSH/Unit 7 - World War 2/Day 2.md"
+    "AP Bio/Test 1 Notes.md"
   ]
 }
