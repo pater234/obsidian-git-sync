@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd5dd8e923db82a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUSH/Unit 8 - Cold War/Day 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25a1e6c3735ed9bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUSH/Unit 8 - Cold War/Day 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -114,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APUSH/Unit 8 - Cold War/Day 4.md",
+                "file": "APUSH/Unit 8 - Cold War/Day 6.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,8 +166,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7519ffc55b59a812",
+  "active": "25a1e6c3735ed9bc",
   "lastOpenFiles": [
+    "APUSH/Unit 8 - Cold War/Day 5.md",
+    "APUSH/Unit 8 - Cold War/Day 4.md",
     "APUSH/Unit 8 - Cold War/Day 3.md",
     "APUSH/Unit 8 - Cold War/Day 2.md",
     "APUSH/Unit 8 - Cold War/Day 1.md",
@@ -151,8 +177,6 @@
     "APUSH/Unit 7 - World War 2/Day 5.md",
     "APUSH/Unit 7 - World War 2/Day 4.md",
     "AP Bio/Photosynthesis.md",
-    "AP Bio/1-26-23.md",
-    "Screen Shot 2023-01-11 at 12.10.56 PM.png",
-    "AP Bio/Evolution.md"
+    "AP Bio/1-26-23.md"
   ]
 }
