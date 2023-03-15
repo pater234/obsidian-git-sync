@@ -141,5 +141,33 @@
 	- People begin taking more vacations
 		- Disneyland is built
 		- Vacation towns pop up
-- 
+	- Growth of sports 
+		- NBA props up
+		- Baseball grows
+		- Games are now broadcasted on TV
+		- Brooklyn dodgers went to LA, New York Giants go to San Fran
+
+**Rock and Roll/Teen Culture**
+- As the boomers become teenagers, we see the rise of teen cultures
+- Rise of rock and roll
+- People would sit and listen to records 
+- A lot of teenagers spearhead the new market 
+- Elvis Presley, most popular person of the period
+	- Basically appropriated black music
+	- Extremely controversial
+
+**Changing Workplace**
+- 1956 was the first year there were more white collar workers than blue collar workers
+	- People who wore ties and their education to work
+- Corporate Consolidations
+	- Growth of corporations in the economy
+		- Started in WW2 when the government gave contracts to the large corporations
+		- 600 companies accounted for 53% of corporate income
+			- Even more disparate today
+- Corporate Culture
+	- "Company man"
+	- Conformity in the workplace
+		- Lack of individuality in American lifestyle 
+
+
 

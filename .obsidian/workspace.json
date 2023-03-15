@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5aaec5644254021b",
+            "id": "8934555c0760213c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APUSH/Unit 9 - The 1950s/Day 1.md",
+                "file": "APUSH/Unit 10 - 1960s/Day 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf382863a60d6f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APUSH/Unit 10 - 1960s/Day 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APUSH/Unit 9 - The 1950s/Day 1.md",
+                "file": "APUSH/Unit 10 - 1960s/Day 3.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,8 +118,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5aaec5644254021b",
+  "active": "bf382863a60d6f8d",
   "lastOpenFiles": [
+    "APUSH/Unit 10 - 1960s/Day 2.md",
+    "APUSH/Unit 10 - 1960s/Day 3.md",
+    "AP Bio/Cell Cycle.md",
+    "APUSH/Unit 10 - 1960s",
+    "APUSH/Unit 9 - The 1950s/Day 4.md",
+    "APUSH/Unit 9 - The 1950s/Day 1.md",
+    "README.md",
+    "APUSH/Unit 9 - The 1950s/Day 2.md",
     "APUSH/Unit 8 - Cold War/Day 6.md",
     "APUSH/Unit 8 - Cold War/Day 5.md",
     "APUSH/Unit 8 - Cold War/Day 4.md",
@@ -115,7 +136,6 @@
     "APUSH/Unit 8 - Cold War/Day 1.md",
     "APUSH/Unit 7 - World War 2/Day 6.md",
     "APUSH/Unit 7 - World War 2/Day 5.md",
-    "APUSH/Unit 7 - World War 2/Day 4.md",
-    "AP Bio/Photosynthesis.md"
+    "APUSH/Unit 7 - World War 2/Day 4.md"
   ]
 }
