@@ -1,0 +1,43 @@
+**Mendel's experiments**
+- Mendel crossed a white plant with a purple plant and ended up getting a bunch of purple plants
+	- He decided to cross these purple plants with each other
+- Over time, he got a ratio of 3 purple plants to 1 white plant 
+- Monohybrid cross 
+	- 25% chance of PP (Purple)
+	- 50% chance of Pp (Purple)
+	- 25% change of pp (White)
+- He first looked at the data for shape and color simultaneously 
+	- Got 9:3:3:1
+	- Decided to look at single data sets
+	- He found 12 round and 4 wrinkled (3:1) ratio
+	- He found 12 yellow and 4 green (3:1) ratio
+- He determined that color allele did not affect the assortment of the alleles
+- Created the law of independent assortment
+	- A 9:3:3:1 ratio has two 3:1 ratios
+- This all changes if the alleles are linked (close to 1 another on the same chromosome) then they will not follow Mendelian law
+- Major Non-Mendelian Inheritance Patterns
+	- Codominance 
+		- Both alleles are dominant
+		- If a white cow is crossed with a brown cow then all of the offspring will be brown with white spots
+		- Both of alleles are expressed together in the phenotype
+	- Incomplete dominance
+		- Neither allele is dominant 
+		- Blending between the two
+		- A red and white flower cross would create a blue flower phenotype (blended colors)
+	- Multiple alleles
+		- Many genes exist in multiple forms and are said to have multiple alleles
+		- ABo Blood Types
+			- $I^A$$I^A$ or $I^A$i = A
+			- $I^B$$I^B$ or $I^B$i = B
+			- $I^A$$I^B$ = AB
+			- ii = o
+	- sex linked traits
+		- Disorders carried on the X or Y chromosomes 
+			- Much more common on X chromosome
+		- More frequent in males than females
+		- Colorblindness, hemophilia 
+	- In one couple the mother is a carrier for colorblindness and the father is normal
+		- Punnett Square ![[Heredity, Mendelian, Non-Mendelian Genetics 2023-03-31 14.41.29.excalidraw]]
+		- Male - 50% chance of being color blind
+		- Female - 50% chance of carrying the gene, no chance of being color-blind
+

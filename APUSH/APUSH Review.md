@@ -1,0 +1,25 @@
+**Presidents to know**
+- Washington
+	- Federalist leaning, precedents
+- Adams
+	- Federalists, almost war with France, Alien and Sedition Acts
+- Jefferson
+	- Supreme Court
+- Madison
+	- Not really necessary, War of 1812
+- Jackson
+	- Corrupt Bargain, trail of tears
+- Polk
+	- Expansionist, 1840s expansion
+- Lincoln
+	- Emancipation Proclamation, suspension of habeas corpus
+- Theodore Roosevelt
+	- Big stick diplomacy, government power
+- Wilson
+	- WW1, Wilsonian ideas, more progressive
+- FDR
+	- New Deal
+- LBJ
+	- Great Society, Vietnam
+- Reagan
+	- Reaganomics, Conservative issues, rise of conservatism in 70s and 80s

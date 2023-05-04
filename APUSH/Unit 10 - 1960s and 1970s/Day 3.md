@@ -71,3 +71,24 @@
 	- Both are expensive and the Vietnam War removed funds from the Great Society
 	- The Great Society supporters are liberals, and Vietnam War detractors are liberals as well
 		- Johnson's base is split
+
+**60s Civil Rights**
+- Freedom Rides 1961
+	- The bussing in the south was still segregated
+	- They took a group of white and black volunteers to go from Washington DC to New Orleans to effect some sort of change in this 
+	- Alabama and Mississippi were seen as the most opposed to integration, and they expected violence
+		- The bus was firebombed and people were beaten at multiple points in time
+	- They were trying to protest Kennedy's non-enforcement of the integration laws
+	- Representatives of the Department of Justice ride the freedom rides with them
+- Ole Miss Integration
+	- The great schools of the south served as a message of southern pride
+	- Attempts at integration were met with extreme rebuke
+	- The Supreme Court ruled that James Meredith, a 29-year-old air force veteran, could attend the University of Mississippi
+		- There were riots and federal troops were required to protect Meredith
+- University of Alabama
+	- They try the same thing with the University of Alabama
+	- The governor of Alabama, Henry Wallace, was an extreme segregationist
+		- He blocks the entry of two African Americans himself
+			- Has to be removed by federal troops
+- JFK was the one who called for the Civil Rights Act of 1964
+	- He and RFK believe that Civil Rights is the prevalent issue of the period
