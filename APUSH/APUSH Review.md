@@ -23,3 +23,27 @@
 	- Great Society, Vietnam
 - Reagan
 	- Reaganomics, Conservative issues, rise of conservatism in 70s and 80s
+
+**Last Minute Questions**
+- First and Second Great Awakening
+	- First
+		- Religious revival in New England
+		- Led to new churches
+		- Puritan
+		- Long term cause of the revolution
+		- Created more religious freedom
+		- Emphasizes the individual relationship with God
+		- Slightly associated with the Enlightenment
+		- Individualist spirit that leads to the revolution
+	- Second
+		- Religious revival in New England
+		- Led to new churches
+		- Individual conversion
+		- Associated with sparking reform movements
+		- Moral and social reform
+		- Antebellum reforms
+			- Abolition, changing role for women
+			- Transcendentalists 
+			- Utopians
+		- Outdoor campfire meetings
+- 
