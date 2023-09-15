@@ -61,3 +61,4 @@
 - The first primates evolved within the last 60 million years and gave us all the species of primates around today
 - A bigger cell took control of two smaller cells to begin eukaryotic life and multiple cells came together to begin multicellular life
 - The duplication and divergence of genes and chromosomes give rise to immense amounts of changes.  
+- 

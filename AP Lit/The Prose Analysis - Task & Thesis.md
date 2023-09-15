@@ -1,0 +1,25 @@
+- Timing Suggestions
+	- 2 minutes - working the prompt (Task)
+	- 8 minutes - reading and annotating
+	- 7 minutes - prewriting/planning
+	- 20 minutes - writing
+	- 3 minutes - proofreading
+- Spend as much time as possible thinking about what you are going to write
+	- Or you can launch yourself into writing and reread any amount of lines that might be misleading
+- Task
+	- Top of the page with instructions
+- A passage
+	- Half to a full page of prose (novel, short story, drama)
+	- Likely unfamiliar (prior knowledge rarely applies)
+	- Can stand alone (doesn't require prior knowledge)
+- You might be able to bring in knowledge about authors and movements for sophistication
+- What to Do: The Task (What to look for)
+	- Context of the work provided (author, time period (year, maybe period of literature), possible milieu (social environment/atmosphere))
+	- The __HOW__ - What the prompt wants you to answer
+		- MOST IMPORTANT
+	- Directional verbs - analyze, discuss, compare
+	- Other directional words - complex, impact
+	- Literary device direction - narrative perspective, selection of detail, POV, tone, imagery, syntax, diction, figurative language, style
+		- Sort of a wink in a general direction that you can take
+		- Not required
+- 

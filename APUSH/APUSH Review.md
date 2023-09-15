@@ -46,4 +46,51 @@
 			- Transcendentalists 
 			- Utopians
 		- Outdoor campfire meetings
-- 
+- WW1 vs WW2 on role of women
+	- Both wars see new opportunities for women and African Americans
+	- WW1 was after the Progressive movement
+		- Temperance and stuff
+		- Women joined the war effort
+			- Mostly unmarried
+		- Led to the 19th amendment
+		- Even though women got the right to vote, overall social status was at the home
+		- Married women did not see a big change
+		- Small, incremental changes
+		- Flappers were an exception
+			- Most women were not flappers, only younger women in the cities that experimented with new senses of sexuality
+	- WW2
+		- 6 million women worked
+			- Including married women 
+			- Created daycares because of the married women
+		- Just like WW1, most women returned to traditional roles
+		- WW2 is the beginning of the long term women's rights movement
+		- In the 50s, many women started working, despite all the ads about the stay-at-home woman
+
+**Supreme Court Cases**
+- Marbury v Madison
+	- Judicial Review
+- Marshall Court (1800s to 1820s)
+	- Affirming government power
+- Dred Scott v Sanford (1857)
+	- Slaves were not citizens, but property
+	- Things like the Missouri Compromise were unconstitutional
+	- Exacerbated tensions
+- Plessy v Ferguson (1896)
+	- Separate but equal - segregation is allowed
+- Brown v Board of Education of Topeka (1954)
+	- Segregation is illegal in schools
+- Shenck v USA (1919)
+	- Espionage and Sedition Acts are allowed
+	- People could be arrested in order to maintain support of the war
+	- Supports government violation of liberties in wartime
+- Korematsu vs USA (1944)
+	- Ruled that Japanese internment was legal
+	- Supports government violation of liberties in wartime
+- Warren Court (50s into 60s)
+	- Rights revolution
+	- Tends to support things like voting rights
+	- Miranda rights
+- Roe vs Wade (1972)
+	- Women must be allowed access to contraceptives
+	- Sparked a massive conservative pro life movement
+	- Seen as a victory for the women's rights movement
