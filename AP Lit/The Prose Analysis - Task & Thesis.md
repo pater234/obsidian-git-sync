@@ -22,4 +22,27 @@
 	- Literary device direction - narrative perspective, selection of detail, POV, tone, imagery, syntax, diction, figurative language, style
 		- Sort of a wink in a general direction that you can take
 		- Not required
+- Before reading the passage, make sure you are clear on how and where the 
+- What to DO with the passage
+	- Read and annotate
+	- Annotate different things, for different amounts, for different lengths of time. 
+	- Annotate for the HOW and literary devices
+		- Any major style or language moments
+		- Tone, make sure you annotate for tone
+		- Shifts, any sort of movement in the passage
+	- 8 mins - length
+	- Annotate for the 2–3 moments that you think are most important
+- Essay Breakdown
+	- Thesis Point (Row A)
+		- Easy point, can be anywhere in the essay (make it easy and put it at the end of the opening paragraph)
+		- Rules
+			- Be defensible 
+			- Answer the Prompt (AP)
+			- Commit to a position that characterizes the complexity (Edels rule)
+- Prompt Exercise
+	- Context - William Dean Howells' novel *The Rise of Silas Lapham* (1885) 
+	- HOW - How the author portrays the complex experience of two sisters, Penelope and Irene, within their family and society
+	- Directional verbs - analyze
+	- Directional words - complex
+	- Literary Device suggestions - style, tone, selection of detail
 - 
