@@ -45,4 +45,44 @@
 	- Directional verbs - analyze
 	- Directional words - complex
 	- Literary Device suggestions - style, tone, selection of detail
+- Prewriting and writing
+	- Prewrite
+		- Review the task, make sure you know what you're responding to 
+		- Organize the major ideas/shifts/points/moments
+		- Know your thesis
+	- Writing
+		- Introduction: use necessary context
+		- Body Paragraphs: Each should contain 1-2 pieces of evidences from the passage
+			- Acknowledge WHAT (literary elements)
+			- Quotations are ideal, very specific references 
+		- Focus should be on the thesis and body paragraphs
+			- Always choose these over conclusions and introductions
+		- 3 and 4 are approximately the same, 
+- Evidence & Commentary Row B
+	- 1 point
+		- Evidence is mostly general
+		- Commentary is simply summarizing the evidence with nothing else
+		- How not what
+	- 2 points
+		- Some specific evidence
+		- Explains how the evidence supports an argument, but does not support a line of reasoning
+		- Mostly treading water, does not propel the argument forwards
+	- 3 points
+		- Explains how some of the evidence supports a line of reasoning
+		- One literary or technique is used to demonstrate the meaning
+		- Has a line of reasoning, may not be perfect
+	- 4 points 
+		- Consistently explains how the evidence supports a line of reasoning
+		- Multiple literary elements
+	- Takeaways
+		- Telling the reader what is not enough
+			- What was in the passage, messages, settings, character traits, a or the metaphor. 
+		- Focus on the how
+			- Think about complexities, functions, layers
+			- How a phrasing in the passage develops a shift
+- Line of Reasoning
+	- Formal structure of an argument
+	- The claims and reasons that are arranged to lead to the conclusion
+		- The train of thought
+	- Each subclaim should build up to one bigger idea
 - 
