@@ -4,71 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b023e5bd3a8e2eff",
+        "id": "91221961cdde8612",
         "type": "tabs",
         "children": [
           {
-            "id": "20681a822376f351",
+            "id": "a66b2493c24a4ce3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APUSH/Unit 11 - 1980s to Present/Day 2.md",
+                "file": "AP Lit/Poetry/Sonnets.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0142c54fb6e87be7",
+            "id": "66dc6292486afc39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Bio/Cellular Respiration.md",
+                "file": "AP Lit/The Prose Analysis/The Quotation Sandwich.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7ac7941777847cba",
+            "id": "370533b14239ade0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Bio/What is a Species?-Reproductive Barriers All Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da787bc66382c34d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Lit/The Prose Analysis - Task & Thesis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0750544f14602f06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Lit/The Prose Analysis - Task & Thesis.md",
+                "file": "AP Lit/Evolution of the English Novel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Lit/The Prose Analysis - Task & Thesis.md",
+                "file": "AP Lit/Evolution of the English Novel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -172,12 +150,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0750544f14602f06",
+  "active": "370533b14239ade0",
   "lastOpenFiles": [
+    "AP Lit/The Prose Analysis/The Quotation Sandwich.md",
+    "AP Lit/Evolution of the English Novel.md",
+    "AP Lit/Poetry/Sonnets.md",
     "APUSH/Unit 11 - 1980s to Present/Day 2.md",
     "AP Bio/Cellular Respiration.md",
     "AP Bio/What is a Species?-Reproductive Barriers All Notes.md",
-    "AP Lit/The Prose Analysis - Task & Thesis.md",
+    "AP Lit/The Prose Analysis/The Prose Analysis - Evidence and Commentary.md",
+    "AP Lit/The Prose Analysis/The Prose Analysis - Task & Thesis.md",
+    "AP Lit/The Prose Analysis/The Prose Analysis - Sophistication.md",
+    "AP Lit/Beloved/Close Analysis.md",
+    "AP Lit/Beloved/124 Is Open Notes.md",
+    "AP Lit/Poetry",
+    "README.md",
+    "AP Lit/Beloved",
+    "AP Lit/The Prose Analysis",
     "AP Lit",
     "APUSH/APUSH Review.md",
     "APUSH/Untitled",
@@ -195,14 +184,6 @@
     "Excalidraw/Drawing 2023-03-15 14.05.59.excalidraw.md",
     "APUSH/Unit 10 - 1960s and 1970s/Day 2.md",
     "AP Bio/Cell Cycle.md",
-    "APUSH/Unit 10 - 1960s and 1970s",
-    "APUSH/Unit 9 - The 1950s/Day 4.md",
-    "APUSH/Unit 9 - The 1950s/Day 1.md",
-    "README.md",
-    "APUSH/Unit 9 - The 1950s/Day 2.md",
-    "APUSH/Unit 8 - Cold War/Day 6.md",
-    "APUSH/Unit 8 - Cold War/Day 5.md",
-    "APUSH/Unit 8 - Cold War/Day 4.md",
-    "APUSH/Unit 8 - Cold War/Day 3.md"
+    "APUSH/Unit 10 - 1960s and 1970s"
   ]
 }
