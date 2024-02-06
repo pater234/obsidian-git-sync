@@ -1,1 +1,64 @@
-- 
+- Two Inventions
+	- "Written": Technological
+		- Writing is something that becomes a technological advancement
+		- What technology makes it possible, producible, accessible, and crosses socioeconomic strata
+		- Movable Type
+			- GUTENBERG
+	- "Story": Cultural
+		- More of a cultural invention 
+		- For a story to become of cultural value the culture must find value in 
+			- Education
+			- The written word as didactic tool
+			- Keeping historical record (perhaps supernatural)
+			- Human potential
+			- Entertainment
+		- Invention of the narrative
+- Technology
+	- Movable Type 
+		- East Asian Cultures developed printing and movable type early, and used it as a way to create class distinctions
+- "Narrative"
+	- Spoken or written account of connected events; a story
+- Precursors to the Novel
+	- Epic Poetry
+		- Composed by bards (singers) and were performances with complex rhetorical and metrical components to make them memorizable. 
+	- Italian Influence in Dante's Divine Comedy
+	- characteristics of western epic
+- Characteristics of an Epic
+	- Begins in the thick of things
+	- Very vast setting
+		- Wide expanse of territory
+	- Begins with the invocation of the Muse
+	- Begins with a statement of the theme
+		- First couple of lines offers an overview
+	- Epithets
+		- Descriptive words used in place of a name
+	- Long lists called an epic catalogue
+	- Long and formal speeches
+	- Divine intervention in human affairs
+		- Does not need to be a God(s)
+	- Often features the epic hero's descent into the underworld or hell
+- Characteristics of the Epic Hero
+	- Has larger than life qualities
+	- Embodies the values of the civilization
+	- Battles monsters, his own flaws, and other beasts
+	- Call to action
+	- Refuses the call
+		- Until something forces them to do it 
+	- Fall from grace and return to status
+- Precursors 
+	- Italian
+		- Dante's Divine Comedy
+	- French
+		- French Heroic Romances
+			- Written in vernacular 
+				- Spoken language
+			- Generally end happily
+		- Montaigne
+			- mid-1500s French Philosopher
+			- Object permanence
+				- You can understand that not seeing something does not mean that it does not exist
+			- Idea of placing value in stories to see yourself reflected and project yourself out
+				- Interconnectedness of a culture
+			- Inventions
+				- A new genre of writing called "try-outs"
+					- Essayers - essay

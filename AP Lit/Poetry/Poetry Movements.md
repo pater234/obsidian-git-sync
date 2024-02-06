@@ -1,0 +1,15 @@
+- Metaphysical Poetry
+	- Late 1500s-1600s
+	- Donne, Crowley, Marvell
+	- Context:
+		- Renaissance poetry: fascination with science/invention
+		- contemporary with Shakespeare
+	- Topics: love, religion, morality
+	- Metrical flexibility
+	- Conceit
+		- Odd
+			- Not a natural metaphor
+		- Extended 
+			- Goes on for more than a line (for a chunk of the poem)
+		- Leans towards science/technology
+- 
