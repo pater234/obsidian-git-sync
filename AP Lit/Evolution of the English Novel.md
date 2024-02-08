@@ -62,3 +62,53 @@
 			- Inventions
 				- A new genre of writing called "try-outs"
 					- Essayers - essay
+- Invention of the English Novel
+	- A novel is a long, fictional narrative
+		- Makes use of literary prose style - modern era
+	- First novel
+		- Tale of Genji in Japanese
+			- 1024 CE
+	- Context
+		- Europe in the 1500s and 1600s was exploring, conquering, and colonizing
+		- Fascination with travel journals increased
+			- Everyone was interested in the idea of foreign travel because it was so different 
+			- Nonfiction prose that was entertaining and contained narrative components because it was so different from regular British life
+			- Leads us to "Of Plymouth Plantation"
+	- The Contenders
+		- The Canterbury Tales by Chaucer (1387-1400)
+			- Nope
+		- Pilgrim's Progress by Bunyan in 1678
+			- If everything is a symbol then is it really a narrative
+		- Oroonoko by Behn (1688)
+			- If something is nonfiction then is it a narrative
+		- Robinson Crusoe by Crusoe (1719)
+			- If the author is the a narrator then is it a narrative
+		- Gulliver's Travels by Swift in 1726
+			- If it is a parody then it's not the first of its kind
+		- Pamela: Or, Virtue Rewarded Richardson in 1740
+			- Can letters be considered a narrative
+	- Definitions for Contenders Slide
+		- Frame Tale - story within a story
+		- epistolary - series of letters
+		- didactic - intended to teach
+		- Conduct lit - intends to educate on social norms 
+	- What is the answer:
+		- Historically correct answer: Robinson Crusoe
+		- Modernly supported answer: Oroonoko by Behn (1688)
+	- Travel Narratives
+		- People began to think about what if they made up travel journals for entertainment
+	- Robinson Crusoe
+		- Originally published by Robinson Crusoe, but later revealed to be by author Daniel Defoe
+		- Generally accepted as the first English novel
+	- Gulliver's Travels
+		- People mistook the book as truth in its time
+		- Openly mocked ideas such as travel narratives and colonization
+	- Treasure Island (Later Example)
+		- Hunt for buried treasure from the POV of a pirate
+	- Pilgrim's Progress
+		- Initially ruled out because it is purely allegorical and not fitting the true novel form, but some people do think that it is the first novel
+	- Oroonoko 
+		- Was written as autobiographical, but could not have been
+	- Homework
+		- Pick from an excerpt from four works
+		- Canterbury Tales
