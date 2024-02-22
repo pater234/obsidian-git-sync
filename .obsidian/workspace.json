@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84edc96c75789526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Lit/Poetry/Important.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "281d77918edc03e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "British Romanticism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7411e43639564dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AP Lit/Poetry/Peer Presentations/Ozymandias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Lit/Evolution of the English Novel.md",
+                "file": "AP Lit/Poetry/Peer Presentations/Ozymandias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,11 +162,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "3fa9b9c4862be6c2",
+  "active": "e7411e43639564dc",
   "lastOpenFiles": [
+    "British Romanticism.md",
+    "AP Lit/Poetry/Peer Presentations/Ozymandias.md",
+    "AP Lit/Poetry/Peer Presentations",
+    "AP Lit/Poetry/Important.md",
+    "AP Lit/Poetry/Sonnets.md",
     "AP Lit/Poetry/Poetry Movements.md",
     "AP Lit/Poetry/Poetry Terms and Conceits.md",
-    "AP Lit/Poetry/Sonnets.md",
     "AP Lit/Evolution of the English Novel.md",
     "AP Lit/The Prose Analysis/The Quotation Sandwich.md",
     "APUSH/Unit 11 - 1980s to Present/Day 2.md",
@@ -156,9 +197,6 @@
     "AP Bio/Karyotypes.md",
     "AP Bio/Cellular Respiration Part 3.md",
     "APUSH/Unit 10 - 1960s and 1970s/Day 5.md",
-    "APUSH/Unit 10 - 1960s and 1970s/Day 4.md",
-    "APUSH/Unit 10 - 1960s and 1970s/Day 3.md",
-    "Excalidraw/Drawing 2023-03-15 14.05.59.excalidraw.md",
     "APUSH/Unit 10 - 1960s and 1970s"
   ]
 }

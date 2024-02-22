@@ -112,3 +112,4 @@
 	- Homework
 		- Pick from an excerpt from four works
 		- Canterbury Tales
+			- Try to understand it 

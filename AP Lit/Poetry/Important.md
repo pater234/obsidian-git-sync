@@ -1,0 +1,30 @@
+- Before the Birth of One of Her Children by Anne Bradstreet (1678)
+	- Style
+		- The rhyme scheme of couplets is reminiscent of aspects of metaphysical poems
+		- Elevated language similar to metaphysical poems
+		- Rigid meter, similar to the iambic pentameter of sonnets
+		- Varied sentence structure and language created some sense of urgency similar to carpe diem poetry. 
+	- Subject Choice and Message
+		- Topic of Mortality
+			- Carpe Diem poetry reveals insights into the idea of life and death, which is prevalent in many poems written at this time
+		- Acceptance
+			- Similar to metaphysical, there is a level of acceptance of the situation in the poem
+		- Family
+			- The concern expressed for the children in the poem underscores the importance of family in this time period. 
+- On Being Brought from Africa to America by Phillis Wheatley (1773)
+	- Style
+		- 8 lines, 10 syllables per line (persists throughout the poem). Similar to the rigid structure of sonnets, though not matching completely
+		- The language and figurative language is distinct, and hopes to make it understandable
+	- Subject Choice and Message
+		- Conversion and Slavery
+			- Ideas of colonization and civilization (non-white people should be grateful for being civilized by their masters)
+		- Racial Prejudice
+			- Related to conversion and slavery, ideas of looking down on other races. 
+- Notes on Bradstreet
+	- Recognized as the first female New World Poet
+	- Influenced by the Puritan desire to venture into the wilderness and the Elizabethan value of education
+	- Met with distressful conditions of malnutrition and native hostility when she migrated to the colonies
+- Notes on Wheatley
+	- Slave to John Wheatley in Boston, lived to the creation of the United States
+	- Seen as the representation of the creative and intellectual skills of African Americans for abolitionists
+	- Much of her work is lost, with the ones that we have only held by abolitionists after her death. 
