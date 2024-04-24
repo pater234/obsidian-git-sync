@@ -1,3 +1,10 @@
 - Antigen (STD)
 	- Chicken Gamma Globulin
-	- 
+- Primary Antibody
+- Secondary Antibody
+- HRP
+	- Enzyme Substrate (TMB)
+- 10X PBS
+	- Phosphate Buffered Saline
+- 10% Tween 20
+- 

@@ -49,26 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Lit/Free Response Essay/Free Response Essay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f83d5141d3cf0042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biotech Lab Notes.md",
+                "file": "AP Lit/British Romanticism.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biotech Lab Notes.md",
+                "file": "AP Lit/British Romanticism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f83d5141d3cf0042",
+  "active": "49075ebcecd71fef",
   "lastOpenFiles": [
     "AP Lit/Free Response Essay/Free Response Essay.md",
     "Biotech Lab Notes.md",
