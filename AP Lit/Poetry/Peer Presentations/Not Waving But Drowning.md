@@ -1,0 +1,21 @@
+- Written by Stevie Smith
+- Postmodernism
+	- Started around 1945
+	- Created as a result of the horrors of WW2
+		- Holocaust
+		- Concentration camps
+		- Nuclear bombs
+	- Preservation of human life
+	- Dark comedy, paradox, and paranoia
+- Poem Itself
+	- Most famous poem of Stevie Smith
+	- Part of a collection of stories titled the same
+	- 12 lines, 3 quatrains, and free verse
+- Analysis
+	- Paradox, dead man continuing to moan
+	- Ambiguity as to who the "I" is in the poem
+	- Shift in POV throughout the poem
+- Lit Crit
+	- "Queen of Contradictions"
+	- Usage of three distinct speakers demonstrates a change in her style
+	- 

@@ -113,3 +113,44 @@
 		- Pick from an excerpt from four works
 		- Canterbury Tales
 			- Try to understand it 
+- Marginalized Voices and the Novel (circa 19th c.)
+	- Modernism and Marginalization
+		- England
+			- Colonialism and Post colonialism
+		- America
+			- Harlem Renaissance
+	- Root of novels
+		- Oriented in disrespect, voiceless parties and colonization
+		- Travel narratives
+			- Find entertainment in foreign cultures
+			- Caught up in spirit of adventure 
+			- Funded with the intent of colonizing
+			- Written from a dominant position
+				- All of what survives of these cultures
+				- Stripping them of their sense of voice
+			- Defined cultures by depictions from a colonizing country
+		- The attempt to acknowledge this imbalance is what colonialism and post colonialism are about
+	- Colonialism
+		- Primarily British
+		- Ambiguity about the morality of imperialism
+			- Unsure about the nature of humanity and the viability of European civilization
+		- Seminal Works
+			- Heart of Darkness by Joseph Conrad
+			- Out of Africa by Dinesan
+			- Kim by Rudyard Kipling
+			- Conrad is critical of imperialism (Colonial without being imperialist)
+	- Post-colonialism
+		- Refers to how race, ethnicity, culture and identity are represented after colonized countries regained independence
+		- Australia, Canada, and America are grouped as post colonial but are more settler
+		- Seminal
+			- Text: Edward Said - Orientalism and Culture and Imperialism
+			- Work: Things Fall Apart (Achebe)
+				- Called Conrad a ""bloody imperialist" and the worst sort of racist, a liberal who hides behind a mask of tolerance"
+			- The House of Spirits by Isabelle Allende
+			- Midnight's Children by Salman Rushdie
+	- Harlem Renaissance
+		- Specifically American
+		- Great Migration of African Americans to the urbanized North
+		- Slavery Emancipation (ingrained ideologies of slavery) - 1860s, people who were freed from slavery are still impacted by slavery
+			- 1890s - Generation straddling the divide (raised by parents with ingrained ideologies of slavery) - lived more not in slavery versus in slavery
+				- First Generation born separated from the ideologies of slavery - 1920s

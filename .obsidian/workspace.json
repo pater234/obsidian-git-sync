@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "64d29e8ef914c069",
+    "id": "f3e018753db65278",
     "type": "split",
     "children": [
       {
-        "id": "91221961cdde8612",
+        "id": "f9cb52861d809339",
         "type": "tabs",
         "children": [
           {
-            "id": "3fa9b9c4862be6c2",
+            "id": "4af1012be08e98ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,57 +20,69 @@
             }
           },
           {
-            "id": "84edc96c75789526",
+            "id": "60f869264e14fccd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Lit/Poetry/Important.md",
+                "file": "AP Lit/Poetry/Peer Presentations/Ballad of Rudolph Reed.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "281d77918edc03e1",
+            "id": "b46710ce81cc1105",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "British Romanticism.md",
+                "file": "AP Lit/Evolution of the English Novel.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e7411e43639564dc",
+            "id": "2a9595ffd3878a13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Lit/Poetry/Peer Presentations/Ozymandias.md",
+                "file": "AP Lit/Free Response Essay/Free Response Essay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f83d5141d3cf0042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biotech Lab Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e15dfd810a298677",
+    "id": "5b73401727797871",
     "type": "split",
     "children": [
       {
-        "id": "7e31fc6bf8886ae0",
+        "id": "3d109c30bf14d8bc",
         "type": "tabs",
         "children": [
           {
-            "id": "11bcff20d756c5ae",
+            "id": "49075ebcecd71fef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +92,7 @@
             }
           },
           {
-            "id": "8ed47f8f0ef9bfc1",
+            "id": "ad5a5d4ac80261df",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +107,7 @@
             }
           },
           {
-            "id": "52c833979429abda",
+            "id": "bb611e7e5ee5a740",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,35 +118,68 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 301.5026054382324
   },
   "right": {
-    "id": "ab23770baf2823a8",
+    "id": "8fa891ea4d298d8c",
     "type": "split",
     "children": [
       {
-        "id": "7b2f816bac9dd6c8",
+        "id": "ec7bf872c5b2fe4d",
         "type": "tabs",
         "children": [
           {
-            "id": "c006bb289f5794e2",
+            "id": "5cef17ab473d3608",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Lit/Poetry/Peer Presentations/Ozymandias.md",
+                "file": "Biotech Lab Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "169f2ccec16d1961",
+            "id": "5a22945150c33317",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AP Lit/Poetry/Peer Presentations/Ballad of Rudolph Reed.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61eb65981191a248",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a943ec7f91a78a64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AP Lit/Poetry/Peer Presentations/Ballad of Rudolph Reed.md"
+              }
+            }
+          },
+          {
+            "id": "4babc19b77000f7a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -155,48 +200,23 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e7411e43639564dc",
+  "active": "f83d5141d3cf0042",
   "lastOpenFiles": [
-    "British Romanticism.md",
-    "AP Lit/Poetry/Peer Presentations/Ozymandias.md",
-    "AP Lit/Poetry/Peer Presentations",
-    "AP Lit/Poetry/Important.md",
-    "AP Lit/Poetry/Sonnets.md",
-    "AP Lit/Poetry/Poetry Movements.md",
-    "AP Lit/Poetry/Poetry Terms and Conceits.md",
+    "AP Lit/Free Response Essay/Free Response Essay.md",
+    "Biotech Lab Notes.md",
     "AP Lit/Evolution of the English Novel.md",
-    "AP Lit/The Prose Analysis/The Quotation Sandwich.md",
-    "APUSH/Unit 11 - 1980s to Present/Day 2.md",
-    "AP Bio/Cellular Respiration.md",
-    "AP Bio/What is a Species?-Reproductive Barriers All Notes.md",
-    "AP Lit/The Prose Analysis/The Prose Analysis - Evidence and Commentary.md",
+    "AP Lit/Free Response Essay",
     "AP Lit/The Prose Analysis/The Prose Analysis - Task & Thesis.md",
     "AP Lit/The Prose Analysis/The Prose Analysis - Sophistication.md",
-    "AP Lit/Beloved/Close Analysis.md",
-    "AP Lit/Beloved/124 Is Open Notes.md",
-    "AP Lit/Poetry",
-    "README.md",
-    "AP Lit/Beloved",
-    "AP Lit/The Prose Analysis",
-    "AP Lit",
-    "APUSH/APUSH Review.md",
-    "APUSH/Untitled",
-    "AP Bio/Heredity, Mendelian, Non-Mendelian Genetics.md",
-    "APUSH/Unit 11 - 1980s to Present",
-    "Excalidraw/Heredity, Mendelian, Non-Mendelian Genetics 2023-03-31 14.41.29.excalidraw.md",
-    "APUSH/Unit 10 - 1960s and 1970s/Day 8.md",
-    "APUSH/Unit 10 - 1960s and 1970s/Day 7.md",
-    "APUSH/Unit 10 - 1960s and 1970s/Day 6.md",
-    "AP Bio/Karyotypes.md",
-    "AP Bio/Cellular Respiration Part 3.md",
-    "APUSH/Unit 10 - 1960s and 1970s/Day 5.md",
-    "APUSH/Unit 10 - 1960s and 1970s"
+    "AP Lit/Poetry/Peer Presentations/Not Waving But Drowning.md",
+    "AP Lit/Poetry/Peer Presentations/This is Just to Say.md",
+    "AP Lit/Poetry/Peer Presentations/Ballad of Rudolph Reed.md"
   ]
 }

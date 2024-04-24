@@ -9,4 +9,4 @@
 - Antique land - Egypt (not ancient)
 	- King of Kings rather than Pharaoh of Egypt
 	- A bit ambiguous in how it acted
-- 
+- Ideas of legacy and impermanence
