@@ -1,4 +1,0 @@
-- Baby Suggs had her freedom bought by Halle (pg 161)
-	- Driven to the Ohio River by her former master, Garner
-	- Rented a house with two floors from the Bodwins
-		- They "hated slavery worse than they hated slaves"

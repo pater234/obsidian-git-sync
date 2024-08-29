@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f9cb52861d809339",
+        "id": "fe226ab89b97ead4",
         "type": "tabs",
         "children": [
           {
-            "id": "4af1012be08e98ce",
+            "id": "5f6c88dddc50c6bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP Lit/Evolution of the English Novel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60f869264e14fccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Lit/Poetry/Peer Presentations/Ballad of Rudolph Reed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b46710ce81cc1105",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Lit/Evolution of the English Novel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a9595ffd3878a13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP Lit/British Romanticism.md",
+                "file": "Cal/EECS 16A/Lecture 0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP Lit/British Romanticism.md",
+                "file": "Cal/EECS 16A/Lecture 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -182,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -195,16 +158,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49075ebcecd71fef",
+  "active": "5f6c88dddc50c6bd",
   "lastOpenFiles": [
-    "AP Lit/Free Response Essay/Free Response Essay.md",
+    "Excalidraw/Lecture 0 2024-08-28 19.05.09.excalidraw.md",
+    "Cal/EECS 16A/Lecture 0.md",
+    "Excalidraw/Lecture 0 2024-08-28 19.03.17.excalidraw.md",
+    "Cal/EECS 16A/Lecture 1A.md",
+    "Excalidraw/Lecture 0 2024-08-28 18.31.07.excalidraw.md",
+    "Cal",
+    "MSE",
+    "Cal/EECS 16A",
+    "dis00B.pdf",
+    "Untitled.md",
+    "Cal/CS61A/Lec 00.md",
+    "README.md",
+    "Cal/CS61A",
     "Biotech Lab Notes.md",
-    "AP Lit/Evolution of the English Novel.md",
-    "AP Lit/Free Response Essay",
-    "AP Lit/The Prose Analysis/The Prose Analysis - Task & Thesis.md",
-    "AP Lit/The Prose Analysis/The Prose Analysis - Sophistication.md",
-    "AP Lit/Poetry/Peer Presentations/Not Waving But Drowning.md",
-    "AP Lit/Poetry/Peer Presentations/This is Just to Say.md",
-    "AP Lit/Poetry/Peer Presentations/Ballad of Rudolph Reed.md"
+    "Book Thief Notes.md",
+    "Untitled 1.canvas",
+    "MSE/AP Lit/Poetry/Poetry Movements.md",
+    "MSE/AP Lit/Poetry/Poetry Terms and Conceits.md",
+    "MSE/AP Lit/The Prose Analysis/The Prose Analysis - Evidence and Commentary.md",
+    "MSE/AP Lit/The Prose Analysis/The Prose Analysis - Task & Thesis.md",
+    "MSE/AP Lit/The Prose Analysis/The Prose Analysis - Sophistication.md",
+    "MSE/AP Lit/British Romanticism.md",
+    "MSE/AP Lit/Free Response Essay/Free Response Essay.md",
+    "MSE/AP Lit/Evolution of the English Novel.md",
+    "MSE/AP Lit/Free Response Essay",
+    "MSE/AP Lit/Poetry/Peer Presentations/Not Waving But Drowning.md",
+    "MSE/AP Lit/Poetry/Peer Presentations/This is Just to Say.md",
+    "MSE/AP Lit/Poetry/Peer Presentations/Ballad of Rudolph Reed.md"
   ]
 }

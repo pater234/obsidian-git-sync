@@ -1,0 +1,28 @@
+- Based on a provocative prompt 
+	- Universal
+- Varied personal opinions and multiple approaches
+- Purpose
+	- Discuss a piece of literature in context
+- Once a work is chosen, you will have total freedom to select the specifics that will support your thesis
+- Preparation
+	- By May
+		- 4-6 full works
+			- Should be thoroughly conversant
+		- 1 modern
+		- 1 classic work
+		- 1 play
+		- 1-2 of your choice
+		- 1 American
+		- 1 British
+		- 1 canonical 
+		- 1 marginalized
+		- All checked
+	- Grading
+		- Comprehension of Theme
+		- Literary Insight
+		- Appropriate Examples
+		- No Plot Summary
+		- Progression
+		- mature voice
+		- organization
+	- 

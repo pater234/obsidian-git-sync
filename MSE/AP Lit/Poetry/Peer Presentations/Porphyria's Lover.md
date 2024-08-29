@@ -1,0 +1,22 @@
+- Victorian Poetry
+	- Style
+		- Narrative
+		- Lengthy
+			- Robert Browning is known for this
+		- Rhythm/Meter
+	- Time Period
+		- Queen Victoria
+- Robert Browning
+	- Dramatic monologue
+	- Elements
+		- Irony, Social commentary, challenging vocabulary
+- Analysis
+	- No break in stanza
+		- Dramatic Monologue
+	- Figurative Language
+		- Shows the depression of the narrator
+- Attitude of Victorian times
+	- Buttoned-up and pent-up time period
+	- Gender roles are firm
+	- Social classes are set (very hard to rise or fall)
+	- Difficult to be outside the expected role.

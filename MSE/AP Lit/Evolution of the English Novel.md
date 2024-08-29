@@ -1,0 +1,156 @@
+- Two Inventions
+	- "Written": Technological
+		- Writing is something that becomes a technological advancement
+		- What technology makes it possible, producible, accessible, and crosses socioeconomic strata
+		- Movable Type
+			- GUTENBERG
+	- "Story": Cultural
+		- More of a cultural invention 
+		- For a story to become of cultural value the culture must find value in 
+			- Education
+			- The written word as didactic tool
+			- Keeping historical record (perhaps supernatural)
+			- Human potential
+			- Entertainment
+		- Invention of the narrative
+- Technology
+	- Movable Type 
+		- East Asian Cultures developed printing and movable type early, and used it as a way to create class distinctions
+- "Narrative"
+	- Spoken or written account of connected events; a story
+- Precursors to the Novel
+	- Epic Poetry
+		- Composed by bards (singers) and were performances with complex rhetorical and metrical components to make them memorizable. 
+	- Italian Influence in Dante's Divine Comedy
+	- characteristics of western epic
+- Characteristics of an Epic
+	- Begins in the thick of things
+	- Very vast setting
+		- Wide expanse of territory
+	- Begins with the invocation of the Muse
+	- Begins with a statement of the theme
+		- First couple of lines offers an overview
+	- Epithets
+		- Descriptive words used in place of a name
+	- Long lists called an epic catalogue
+	- Long and formal speeches
+	- Divine intervention in human affairs
+		- Does not need to be a God(s)
+	- Often features the epic hero's descent into the underworld or hell
+- Characteristics of the Epic Hero
+	- Has larger than life qualities
+	- Embodies the values of the civilization
+	- Battles monsters, his own flaws, and other beasts
+	- Call to action
+	- Refuses the call
+		- Until something forces them to do it 
+	- Fall from grace and return to status
+- Precursors 
+	- Italian
+		- Dante's Divine Comedy
+	- French
+		- French Heroic Romances
+			- Written in vernacular 
+				- Spoken language
+			- Generally end happily
+		- Montaigne
+			- mid-1500s French Philosopher
+			- Object permanence
+				- You can understand that not seeing something does not mean that it does not exist
+			- Idea of placing value in stories to see yourself reflected and project yourself out
+				- Interconnectedness of a culture
+			- Inventions
+				- A new genre of writing called "try-outs"
+					- Essayers - essay
+- Invention of the English Novel
+	- A novel is a long, fictional narrative
+		- Makes use of literary prose style - modern era
+	- First novel
+		- Tale of Genji in Japanese
+			- 1024 CE
+	- Context
+		- Europe in the 1500s and 1600s was exploring, conquering, and colonizing
+		- Fascination with travel journals increased
+			- Everyone was interested in the idea of foreign travel because it was so different 
+			- Nonfiction prose that was entertaining and contained narrative components because it was so different from regular British life
+			- Leads us to "Of Plymouth Plantation"
+	- The Contenders
+		- The Canterbury Tales by Chaucer (1387-1400)
+			- Nope
+		- Pilgrim's Progress by Bunyan in 1678
+			- If everything is a symbol then is it really a narrative
+		- Oroonoko by Behn (1688)
+			- If something is nonfiction then is it a narrative
+		- Robinson Crusoe by Crusoe (1719)
+			- If the author is the a narrator then is it a narrative
+		- Gulliver's Travels by Swift in 1726
+			- If it is a parody then it's not the first of its kind
+		- Pamela: Or, Virtue Rewarded Richardson in 1740
+			- Can letters be considered a narrative
+	- Definitions for Contenders Slide
+		- Frame Tale - story within a story
+		- epistolary - series of letters
+		- didactic - intended to teach
+		- Conduct lit - intends to educate on social norms 
+	- What is the answer:
+		- Historically correct answer: Robinson Crusoe
+		- Modernly supported answer: Oroonoko by Behn (1688)
+	- Travel Narratives
+		- People began to think about what if they made up travel journals for entertainment
+	- Robinson Crusoe
+		- Originally published by Robinson Crusoe, but later revealed to be by author Daniel Defoe
+		- Generally accepted as the first English novel
+	- Gulliver's Travels
+		- People mistook the book as truth in its time
+		- Openly mocked ideas such as travel narratives and colonization
+	- Treasure Island (Later Example)
+		- Hunt for buried treasure from the POV of a pirate
+	- Pilgrim's Progress
+		- Initially ruled out because it is purely allegorical and not fitting the true novel form, but some people do think that it is the first novel
+	- Oroonoko 
+		- Was written as autobiographical, but could not have been
+	- Homework
+		- Pick from an excerpt from four works
+		- Canterbury Tales
+			- Try to understand it 
+- Marginalized Voices and the Novel (circa 19th c.)
+	- Modernism and Marginalization
+		- England
+			- Colonialism and Post colonialism
+		- America
+			- Harlem Renaissance
+	- Root of novels
+		- Oriented in disrespect, voiceless parties and colonization
+		- Travel narratives
+			- Find entertainment in foreign cultures
+			- Caught up in spirit of adventure 
+			- Funded with the intent of colonizing
+			- Written from a dominant position
+				- All of what survives of these cultures
+				- Stripping them of their sense of voice
+			- Defined cultures by depictions from a colonizing country
+		- The attempt to acknowledge this imbalance is what colonialism and post colonialism are about
+	- Colonialism
+		- Primarily British
+		- Ambiguity about the morality of imperialism
+			- Unsure about the nature of humanity and the viability of European civilization
+		- Seminal Works
+			- Heart of Darkness by Joseph Conrad
+			- Out of Africa by Dinesan
+			- Kim by Rudyard Kipling
+			- Conrad is critical of imperialism (Colonial without being imperialist)
+	- Post-colonialism
+		- Refers to how race, ethnicity, culture and identity are represented after colonized countries regained independence
+		- Australia, Canada, and America are grouped as post colonial but are more settler
+		- Seminal
+			- Text: Edward Said - Orientalism and Culture and Imperialism
+			- Work: Things Fall Apart (Achebe)
+				- Called Conrad a ""bloody imperialist" and the worst sort of racist, a liberal who hides behind a mask of tolerance"
+			- The House of Spirits by Isabelle Allende
+			- Midnight's Children by Salman Rushdie
+	- Harlem Renaissance
+		- Specifically American
+		- Great Migration of African Americans to the urbanized North
+		- Slavery Emancipation (ingrained ideologies of slavery) - 1860s, people who were freed from slavery are still impacted by slavery
+			- 1890s - Generation straddling the divide (raised by parents with ingrained ideologies of slavery) - lived more not in slavery versus in slavery
+				- First Generation born separated from the ideologies of slavery - 1920s

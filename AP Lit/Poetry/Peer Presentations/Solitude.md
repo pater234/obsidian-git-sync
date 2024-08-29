@@ -1,4 +1,0 @@
-- Ella Wheeler Wilcox 
-	- Well liked in her time by the general public but hated by the educated class and critics
-- Her work is considered didactic and obvious 
-- 

@@ -1,0 +1,160 @@
+**Women's Suffrage**
+- Also prevalent from the antebellum period until the Progressives
+- Largest group was the National American Women Suffrage Association
+	- Advocated for women getting the right to vote to help the family. 
+	- Wanted to appeal to middle class that giving women the right to vote would help society
+- National Women's Party 
+	- Alice Paul - from New Jersey
+		- Did a hunger strike in jail when arrested during WWI 
+	- Far more militant and radical
+	- Chained themselves to the White House fence during WWI
+- Many states already gave more rights to women
+- WWI changed everyone's mind
+	- The contribution of women to the factories led everyone to support suffrage
+- Opponents
+	- Cult of Domesticity
+		- A women's role is at home
+		- Protect the family, make children
+		- Its bad for society for women to enter politics
+	- Conservative Women
+		- Said that women voting was bad for society 
+		- Rose again during women's liberation
+- Women did not really have a monumental breakthrough
+	- They simply voted with their husbands. 
+- Planned Parenthood and Birth Control education
+	- Illegal in most states
+	- Mostly a socialist cause
+		- Margaret Sanger - deported to Russia
+		- Emma Goldman - arrested many times for going to poor neighborhoods and handing out contraceptives
+
+**Presidents of the Progressive Period**
+- Roosevelt
+	- Roosevelt wanted to show that the government could regulate industry
+	- Bully Pulpit
+		- Very righteous and sacred, but was a bully
+	- Corporate Control, Consumer Protection, Conservation
+	- Square Deal - Roosevelt's domestic policies
+		- The President sets the legislative agenda and forces Congress to follow
+	- Anthracite Coal Mine - 1902
+		- 6 Month strike of coal workers - bad conditions, freezing conditions
+		- Owners refuses to arbitrate
+		- Roosevelt calls both sides to the White House to negotiate, gets very annoyed with the mine owners 
+		- Threatens the owners with federal takeover if they did not negotiate
+			- First president to threaten nationalization of a private business
+		- Solution
+			- 10% pay increase and 9 hour workday for the union
+			- The owners did not have to recognize the Union
+			- Roosevelt wanted to offer a square deal (fair) for all size
+	- Department of Commerce
+		- Created during Roosevelt's presidency 
+		- The Bureau of Corporations had the power to investigate and prosecute big business
+	- Elkins Act 
+		- Gave the interstate commerce commission power to fight against rebates
+	- Hepburn Act
+		- The ICC now has the power to regulate the railroads and fix reasonable rates for all
+	- Roosevelt became famous for breaking up trusts
+		- He broke up 44 trusts over the course of his presidency 
+		- Roosevelt broke up the Northern Securities Company which was owned by J.P. Morgan
+			- He wanted to show his power over Roosevelt
+	- Trust Regulator, not buster
+		- He believed some companies were good for the economy 
+			- He only broke up those that used monopolistic policies
+		- US Steel actually expanded during his presidency
+		- Roosevelt's regulation allowed for the long term survival of large companies
+	- Election of 1904
+		- Roosevelt is extremely popular and wins every state but the South which was firmly Democratic
+		- Roosevelt later regretted stating that he did not want to seek a third term as he really liked being president
+	- Consumer Protection 
+		- Upton Sinclair and the Jungle 
+			- Wanted to show the plight of the workers 
+			- Ended up showing the horrible practices of the meat industry to America
+			- Roosevelt read this book, and an investigation into the meat practices led to the confirmation of what was in the book
+		- Meat Inspection Act - Forced companies to use better practices
+		- Pure Food and Drug Act (1906)
+			- Created the Food and Drug Administration (FDA)
+			- Regulatory Agency - can set laws within their jurisdiction
+	- Conservation
+		- Probably Roosevelt's most enduring legacy 
+			- He loved being outside
+		- During the period of Industrialization there was a lot of wastage of natural resources 
+			- Companies would level forests without care
+		- In 1891 the government created the Forest Reserve Act
+			- The government can set aside federal land as national reserves 
+			- Roosevelt sets aside a number of acres to create national parks and forests
+		- Conservation vs Preservation
+			- Preservationists wanted the land to be pristine and not used at all
+				- Favored only national parks
+			- Conservationists - wants to protect the environment and use it efficiently
+				- You can change and alter the environment as long as you are somewhat protecting it
+		- Newland Reclamation Act of 1902
+			- Money from the sale of public land would be set aside to create dams and irrigation projects
+				- The West gets most of their power from dams
+		- Hetch Hetchy Valley Controversy 
+			- Conservationists wanted to create a dam for San Francisco
+			- The Preservationists wanted to preserve this area of Yosemite
+				- Led by John Muir
+			- The Conservationists won and created a dam. 
+		- National Conservation Commission led by Gifford Pinchot
+		- Biggest and most enduring legacy of Roosevelt
+	- Panic of 1907
+		- Short devastating setback
+		- Roosevelt argues that there is still problems with unregulated practices and the fringes of capitalism
+		- Big business and old conservatives blame Roosevelt and his "meddling"
+	- Election of 1908
+		- Roosevelt wants to run again, but he decides to stick to his word
+		- Handpicks his successor in William H Taft 
+			- Political Cartoon - Taft is the maid who will take care of Roosevelt's policies
+		- William Jennings Bryan runs against Taft for the third time
+		- Taft won because Roosevelt was very popular and he was seen as Roosevelt's successor
+- Taft 
+	- Imperialist like Roosevelt
+		- Dollar Diplomacy
+			- The government should stabilize regions and promote US business and trade abroad
+			- Created banana republics
+			- Tried to take control of railroads in Manchuria
+			- Send troops into Central American and Caribbean nations
+	- Taft struggled with his weight and reached 350 pounds at one point
+	- Taft Domestic Policy 
+		- Taft is a Progressive unlike the Liberal Roosevelt
+		- Taft was a true trustbuster - 90 suits
+			- Breaks up Standard Oil
+			- US Steel - angers Roosevelt
+				- Roosevelt gave his blessing for its expansion
+		- Mann Elkins Act
+			- ICC can regulate telephones, telegraphs, cable companies
+		- 16th Amendment - 1913 - Income Tax
+			- Populist idea on an income tax for the wealthy
+		- Progressive Amendments
+			- 16th - National Income Tax - Populist
+			- 17th - Direct Election of Senators - Populist
+			- 18th - Prohibition
+			- 19th - Women's Suffrage
+		- Conservationists
+			- Did want to protect the environment
+			- Bureau of Mines
+				- Govern the extraction of resources
+	- Split with Roosevelt and Progressive Republicans
+		- Roosevelt leaves the country after Taft's victory for a year 
+			- He feels that Taft is favoring the old guard conservatives over the rest of the party 
+		- Payne-Aldrich Tariff
+			- Really high rate instead of a low rate like it was initial
+			- Taft signed the tariff and said it was the best tariff ever passed
+		- Ballinger - Pinchot Controversy
+			- Richard Ballinger
+				- Secretary of the Interior 
+				- Managed all the natural parks and land
+				- Sold off land to corporations that was supposed to be protected
+			- Gifford Pinchot 
+				- Chief Forester
+				- Openly criticized Ballinger and Taft for the policies
+				- Gets fired by Taft
+		- Breaks up US Steel
+		- Old guard sides with Taft and liberals side with Roosevelt
+		- Midterm Elections of 1910
+			- The Democrats win control of the House indicating to Roosevelt that Taft is weakening the party and country
+		- Teddy Roosevelt declares New Nationalism 
+			- A very liberal set of ideas
+		- Roosevelt starts his campaign to become president again
+			- He begins to rip on Taft in the press (questioned his intelligence)
+		- Roosevelt is now challenging Taft for the nomination of the Republican Party
+			- Taft didn't really want to be president but he wouldn't roll over for Roosevelt

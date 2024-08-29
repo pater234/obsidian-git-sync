@@ -1,0 +1,12 @@
+- Tenets of Romanticism
+	- Individuality
+	- Nature
+		- Existing in the poem but not central
+	- Spontaneity
+		- Most related to Percy Bysshe Shelly
+	- Connections to romanticism is a bit abstract
+- Following the 1st line, the frame stops and the poem is taken over by the speaker
+- Antique land - Egypt (not ancient)
+	- King of Kings rather than Pharaoh of Egypt
+	- A bit ambiguous in how it acted
+- Ideas of legacy and impermanence

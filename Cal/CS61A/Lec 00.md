@@ -1,0 +1,21 @@
+- Lecture Video and Textbook
+	- Videos are posted before
+	- composingprograms.com - textbook
+- Problem Solving
+	- Lab Monday/Tuesday - attendance is required
+	- Discussion - Wed/Thurs/Fri
+	- Office Hours
+	- All 61A labs this week are on Friday 8/30 as 9/2 is labor day
+- Grading Distribution
+	- Absolute scale
+	- Based on last semester
+	- If you get a certain amount of points, then you get a specific letter grade
+**Expression**
+- Types of Expressions
+	- $\frac{6}{23}$
+	- $\sin\pi$
+	- $2^{100}$
+	- An expression describes a computation and evaluates to a value
+	- All expressions can use function call notation
+	- f(x) - function call notation
+- 

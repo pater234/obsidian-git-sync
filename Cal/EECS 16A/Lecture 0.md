@@ -1,0 +1,17 @@
+- Information
+	- Babak Ayazifar
+		- ayazifar@berkeley.edu
+	- https://web.stanford.edu/~boyd/vmls/vmls.pdf - textbook
+	- https://eecs16a.org
+- Vectors
+	- Ordered list of numbers
+	- Denoted with a small letter
+	- $\underline{x}= \begin{bmatrix}x_1 \\ x_k \\ x_n\end{bmatrix}$
+		- n-vector, n-dimensional, n size
+	- $R$ space set of all real valued n-vevctors![[Lecture 0 2024-08-28 19.03.17.excalidraw]]
+	- ![[Lecture 0 2024-08-28 19.05.09.excalidraw]]
+	- Gilbert Strang: Intro to Lin Alg
+		- 5th Ed
+		- 2016
+		- "The Heart of Linear Algebra is in two operations - both with vectors"
+	- We add vectors $

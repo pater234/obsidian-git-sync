@@ -1,0 +1,25 @@
+- Carl Sandberg
+	- Son of two Swedish immigrants
+	- Started working at 13 and served in the Spanish-American war
+	- Rough childhood
+- Chicago Renaissance
+	- Increased output of literary works from Chicago from 1912-1925
+	- Shift away from the East Coast 
+- Realism
+	- Dominant style of the period
+	- Truthful description of the environment around the writer
+	- Often critical of American society
+	- Ordinary individual
+- Sandberg's writing style
+	- Reads like prose
+	- free verse poetry
+	- minimal rhyme and rhythm
+	- Heavy use of figurative language
+- Analysis
+	- Internal conflict for the father
+	- 3rd person limited speech
+	- Lots of metaphors and repetition
+	- Imagery for complex themes of the poem
+	- 
+
+

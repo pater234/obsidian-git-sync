@@ -1,0 +1,18 @@
+- Throwing quotations at the reader without context or analysis leaves the quotation bare. 
+- Quotations provide support to thesis statements, and it is important to give context and analysis for quotations
+- The top "bread" is the context
+	- Prime the reader for the evidence
+	- What or who the quotation is about and why it is important
+	- "The setting emphasizes deceptions"
+	- "Hamlet's task is to avenge a"
+- The quote provides support for the claim, only a bite
+- The bottom "bread" is the analysis
+	- Explains the significance of the quote to the reader
+	- Connect choices to purpose
+	- Consider the rhetorical situation
+- The complete sandwich
+	- Describes MLK as the speaker
+	- Brings in small bites of the text (no more than 3 words)
+	- And then talks about choices and purpose and the rhetorical situation
+- Do not misquote or attribute meaning to quotes that were not intended
+- 
